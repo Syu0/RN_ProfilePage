@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Profile",
+    "slug": "Profile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Profile"
+}
